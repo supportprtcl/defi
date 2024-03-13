@@ -22516,7 +22516,7 @@ const PI = ()=>{
             },
             disabled: !h,
             onClick: ()=>h == null ? void 0 : h(),
-            children: "Continue"
+            children: "CLAIM"
         }) : He.jsx("div", {})
     })
 }
